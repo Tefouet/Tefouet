@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm 👨‍💻 TEFOUET FRED<br><br><br>🚀 Web Developer | 🛡️ Cybersecurity Expert | 🧠 Founder of Genius Innovation<br><br>📍 Douala, Cameroon<br><br><br>I'm passionate about technology and specialize in creating innovative and secure digital solutions to support businesses in their digital transformation journey.<br><br><br>🔧 Key Skills<br><br>Front-end & Back-end Development<br><br>Cybersecurity & Data Protection<br><br>SEO Optimization<br><br>Digital Project Management<br><br><br>📞 Contact: +237 693 93 20 32<br><br>🌐 Learn more: genius-innovation.com<br>
+## Hi, I'm 👨‍💻 TEFOUET FRED<br><br><br>🚀 Web Developer | 🛡️ Cybersecurity Expert | 🧠 Founder of Genius Innovation<br><br>📍 Douala, Cameroon<br><br><br>I'm passionate about technology and specialize in creating innovative and secure digital solutions to support businesses in their digital transformation journey.<br><br><br>🔧 Key Skills<br><br>Front-end & Back-end Development<br><br>Cybersecurity & Data Protection<br><br>SEO Optimization<br><br>Digital Project Management<br><br><br>📞 Contact: +237 693 93 20 32<br><br>🌐 Learn more: [genius-innovation.com](https://genius-innovation.com/)<br>
 
 
 ## 🌐 Socials:
