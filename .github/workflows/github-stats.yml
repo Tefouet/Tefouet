@@ -53,4 +53,5 @@ jobs:
           git commit -m "chore: update GitHub stats"
 
           git pull --rebase origin main
+
           git push origin main
