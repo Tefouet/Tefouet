@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=fredtefouet&show_icons=true&hide_border=true&theme=transparent
+          options: username=Tefouet&show_icons=true&hide_border=true&theme=transparent
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=fredtefouet&layout=compact&langs_count=8&hide_border=true&theme=transparent
+          options: username=Tefouet&layout=compact&langs_count=8&hide_border=true&theme=transparent
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
