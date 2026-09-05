@@ -69,13 +69,13 @@ We design and develop digital products, web experiences and brand systems for co
 
 <p align="center">
   <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=fredtefouet&show_icons=true&hide_border=true&rank_icon=github"
+    height="165"
+    src="./profile/stats.svg"
     alt="Fred Tefouet GitHub Stats"
   />
   <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredtefouet&layout=compact&hide_border=true"
+    height="165"
+    src="./profile/top-langs.svg"
     alt="Most Used Languages"
   />
 </p>
